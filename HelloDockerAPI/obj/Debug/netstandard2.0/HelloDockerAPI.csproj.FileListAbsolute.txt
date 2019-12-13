@@ -1,0 +1,9 @@
+C:\Users\florence.juliet.b\Source\Repos\HelloDockerAPI\HelloDockerAPI\bin\Debug\netstandard2.0\HelloDockerAPI.deps.json
+C:\Users\florence.juliet.b\Source\Repos\HelloDockerAPI\HelloDockerAPI\bin\Debug\netstandard2.0\HelloDockerAPI.dll
+C:\Users\florence.juliet.b\Source\Repos\HelloDockerAPI\HelloDockerAPI\bin\Debug\netstandard2.0\HelloDockerAPI.pdb
+C:\Users\florence.juliet.b\Source\Repos\HelloDockerAPI\HelloDockerAPI\obj\Debug\netstandard2.0\HelloDockerAPI.csprojAssemblyReference.cache
+C:\Users\florence.juliet.b\Source\Repos\HelloDockerAPI\HelloDockerAPI\obj\Debug\netstandard2.0\HelloDockerAPI.csproj.CoreCompileInputs.cache
+C:\Users\florence.juliet.b\Source\Repos\HelloDockerAPI\HelloDockerAPI\obj\Debug\netstandard2.0\HelloDockerAPI.AssemblyInfoInputs.cache
+C:\Users\florence.juliet.b\Source\Repos\HelloDockerAPI\HelloDockerAPI\obj\Debug\netstandard2.0\HelloDockerAPI.AssemblyInfo.cs
+C:\Users\florence.juliet.b\Source\Repos\HelloDockerAPI\HelloDockerAPI\obj\Debug\netstandard2.0\HelloDockerAPI.dll
+C:\Users\florence.juliet.b\Source\Repos\HelloDockerAPI\HelloDockerAPI\obj\Debug\netstandard2.0\HelloDockerAPI.pdb
